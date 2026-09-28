@@ -1,6 +1,7 @@
 package pl.elclashicers;
 
 import org.springframework.boot.SpringApplication;
+import pl.elclashicers.config.TestcontainersConfiguration;
 
 public class TestElclashicersApplication {
 
